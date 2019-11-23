@@ -6,5 +6,6 @@ package com.txj.pojo;
  * @Description: com.txj.pojo
  */
 public class User {
-
+    private String username;
+    private Integer age;
 }
